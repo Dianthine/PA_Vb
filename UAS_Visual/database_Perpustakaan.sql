@@ -1,3 +1,6 @@
+-- Create Database
+create database db_perpustakaan;
+
 -- Tabel Anggota
 CREATE TABLE `Tbl_Anggota` (
     `id_anggota` VARCHAR(20) PRIMARY KEY,
